@@ -5,7 +5,7 @@
     --cor-gradiente-preto: linear-gradient(113deg, #998ff1 0%, #6cb6db 44.96%, #f0dd72 100%);
 }
 
-{
+*{
     margin: 1;
     padding: 0;
     font-family: Montserrat;
